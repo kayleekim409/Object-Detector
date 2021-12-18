@@ -1,0 +1,9 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:navy;
+}
