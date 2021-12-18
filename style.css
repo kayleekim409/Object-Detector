@@ -1,0 +1,20 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-color: maroon;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: paleturquoise;
+    line-height: 40px;
+}
