@@ -20,4 +20,3 @@ function gotResult() {
     console.log(results);
     object = results;
 }
-}
