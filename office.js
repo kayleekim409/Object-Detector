@@ -2,7 +2,7 @@ var status = "";
 var object = [];
 
 function preload() {
-    img = loadImage("garden.jpg");
+    img = loadImage("office.jpg");
 }
 
 function setup() {
